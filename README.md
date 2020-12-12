@@ -1,6 +1,9 @@
 # ETL-Project-Cereal
 A project exploring extracting, transforming, and loading data using various platforms, focusing on cereal brands.
 
+Presentation link:
+
+https://docs.google.com/presentation/d/1pPoYYNaMPpD-_SVLiaH54SJVF9U9-3hz4itVURIAGEQ/edit?usp=sharing
 
 ### Topic: 
 Cereal manufacturer nutritional values and market shares 
