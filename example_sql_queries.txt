@@ -1,0 +1,10 @@
+select mfg_cereal, round(avg(sugar_g),2) as "Avg Sugar", round(avg(fiber_g),2) as "Avg Fiber", round(avg(rating),2) as "Avg Rating", round(avg(market_share),2) as "Avg Mkt Share"
+from "full"
+group by mfg_cereal
+order by "Avg Rating" desc;
+
+
+select mfg, round(avg(sugar_g),2) as "Avg Sugar", round(avg(fiber_g),2) as "Avg Fiber", round(avg(rating),2) as "Avg Rating"
+from nutrition
+group by mfg
+order by "Avg Rating" desc;
