@@ -1,6 +1,9 @@
 # ETL-Project-Cereal
 A project exploring extracting, transforming, and loading data using various platforms, focusing on cereal brands.
 
+Presentation link:
+
+https://docs.google.com/presentation/d/1pPoYYNaMPpD-_SVLiaH54SJVF9U9-3hz4itVURIAGEQ/edit?usp=sharing
 
 ### Topic: 
 Cereal manufacturer nutritional values and market shares 
@@ -8,12 +11,15 @@ Cereal manufacturer nutritional values and market shares
  
 ### Resources: 
   
-  StatInvestor.com (https://statinvestor.com/data/5322/ready-to-eat-cereal-brands-market-share-united-states/)
+### StatInvestor.com 
+(https://statinvestor.com/data/5322/ready-to-eat-cereal-brands-market-share-united-states/)
+
 From this site, we were able to extract market share data on top cereal manufacturers.  We used an Excel tool to scrape the data from the site, and export it into a workable CSV file. 
  
  
  ### Data.World 
 (https://data.world/makeovermonday/2020w36)
+
 This site offered our main core of data.  This offered a dataset showing 80 cereal types and their various nutritional values.  We chose to export this as another CSV file. 
  
  
