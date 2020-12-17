@@ -5,6 +5,10 @@ Presentation link:
 
 https://docs.google.com/presentation/d/1pPoYYNaMPpD-_SVLiaH54SJVF9U9-3hz4itVURIAGEQ/edit?usp=sharing
 
+Final Paper Link:
+
+https://docs.google.com/document/d/13nCApc3EtiCce8Q8AfGZN3_wt2NUqzzpubP8tWQ8daw/edit?usp=sharing
+
 ### Topic: 
 Cereal manufacturer nutritional values and market shares 
  
